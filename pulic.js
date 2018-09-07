@@ -4,3 +4,6 @@ function pulic () {
 function public2 () {
 	console.log('classOne console2');
 }
+function public3 () {
+	console.log('classOne console');
+}
