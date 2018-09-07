@@ -7,4 +7,8 @@ function public2 () {
 }
 function publick () {
 	console.log('1111');
+	console.log('classOne console2');
+}
+function public3 () {
+	console.log('classOne console');
 }
